@@ -1,0 +1,2 @@
+github-properties:
+  personal-token: ${SECRET_GITHUB}
